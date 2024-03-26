@@ -1,0 +1,3 @@
+Significance of meta charset utf-8
+    Meta charset is the indication of web page's character coding. It tells the browser what character encoding to use for the webpage to show the content as desired.
+    As this result, web page can display text in multiple languages and special characters correctly. Texts will not be properly encoded witout this declaration.
